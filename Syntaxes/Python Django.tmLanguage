@@ -14,7 +14,7 @@
 	<array>
 		<dict>
 			<key>begin</key>
-			<string>\b(models\.(Admin|AutoField|BooleanField|CharField|CommaSeparatedIntegerField|DateField|DateTimeField|DecimalField|EmailField|FileField|FilePathField|FloatField|ForeignKey|ImageField|IntegerField|IPAddressField|ManyToManyField|NullBooleanField|OneToOneField|PhoneNumberField|PositiveIntegerField|PositiveSmallIntegerField|SlugField|SmallIntegerField|TextField|TimeField|URLField|USStateField|XMLField))\(</string>
+			<string>\b(models\.(Admin|AutoField|BigIntegerField|BooleanField|CharField|CommaSeparatedIntegerField|DateField|DateTimeField|DecimalField|EmailField|FileField|FilePathField|FloatField|ForeignKey|ImageField|IntegerField|IPAddressField|ManyToManyField|NullBooleanField|OneToOneField|PhoneNumberField|PositiveIntegerField|PositiveSmallIntegerField|SlugField|SmallIntegerField|TextField|TimeField|URLField|USStateField|XMLField))\(</string>
 			<key>beginCaptures</key>
 			<dict>
 				<key>1</key>
