@@ -1,14 +1,1 @@
-Provides additional support for Django (Python) code files.
-It is a fork of Paul Bissex's original bundle.
-
-
-In addition to the model field support of the original bundle, 
-this version adds:
-
- * More links to web resources
- * Form fields
- * URL patterns
- * view and "view for form" skeletons
- * view return (render_to_response, redirect, ...)
- * Middleware class skeleton
- * ...more to come...
+This bundle is updated for Django 1.2.x.
